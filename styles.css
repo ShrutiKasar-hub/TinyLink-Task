@@ -1,0 +1,7 @@
+body { font-family: Arial, sans-serif; padding: 20px; background: #f7f7f7; }
+.container { max-width: 900px; margin: auto; background: white; padding: 20px; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.08);}
+form { display:flex; gap:8px; margin-bottom:12px; }
+input { padding:8px; flex:1; }
+button { padding:8px 12px; }
+table { width:100%; border-collapse: collapse; }
+th, td { text-align:left; padding:8px; border-bottom:1px solid #eee; }
